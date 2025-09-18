@@ -37,10 +37,3 @@ BOT_TOKEN=your_telegram_bot_token
 ## Использование
 
 Отправьте команду `/start` боту для начала работы.
-
-## Лицензия
-
-MIT
-
-Статья на Хабр https://habr.com/ru/articles/908894/
-Хостинг https://dockerhosting.ru
